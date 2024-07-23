@@ -4,10 +4,10 @@ Hosting a Multitier Web-Application using AWS Services like Cloudfront, RDS, S3 
 
 ## Architecture
 
-![Architecture Diagram](C:\Akhil-vprofile\VProfile_BeanStalk)
+![Architecture Diagram](C:\vProfile_Project\vProfile_Project\VProfile_BeanStalk)
 
 **Services Used**:
-![Services](C:\Akhil-vprofile\Services-vprofile)
+![Services](C:\vProfile_Project\vProfile_Project\Services-vprofile)
 
 - S3
 - RDS
